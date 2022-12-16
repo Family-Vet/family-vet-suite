@@ -1,10 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { Container } from '@mui/material';
 function App() {
   return (
     <div className="Login">
+      <div className="Background"></div>
       <div className="LoginBox">
         <div className="LoginHeader">Family Vet Clinic And Supplies</div>
         <div className="inputs">
